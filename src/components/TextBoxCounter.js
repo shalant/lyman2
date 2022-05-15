@@ -1,11 +1,10 @@
 import React from 'react';
 import './TextBoxCounter.css';
 
+
 const TextBoxCounter = () => {
   return (
     <div className='text-box'>
-        <h3>Blah</h3>
-        <p>lorem ipsum</p>
         <header>
             <div className='container'>
                 <h1>Animated Counter</h1>
