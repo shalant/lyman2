@@ -4,6 +4,7 @@ import ImageThree from "./components/ImageThree";
 import TextBox from "./components/TextBox";
 import TextBox2 from "./components/TextBox2";
 import TextBoxCounter from "./components/TextBoxCounter";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -15,7 +16,7 @@ function App() {
 
       <ImageThree />
       <TextBoxCounter />
-
+      <Footer />
     </div>
   );
 }
