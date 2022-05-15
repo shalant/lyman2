@@ -15,7 +15,7 @@ function App() {
       <TextBox2 />
 
       <ImageThree />
-      <TextBoxCounter />
+      {/* <TextBoxCounter /> */}
       <Footer />
     </div>
   );
