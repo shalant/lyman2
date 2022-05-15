@@ -1,5 +1,5 @@
 import { Parallax } from 'react-parallax';
-import kids2 from '../images/alvin-mahmudov-vKuEhorbvYI-unsplash.jpg';
+import kids2 from '../images/IMG_7338.JPG';
 
 const ImageTwo = () => (
     <Parallax className='image' bgImage={kids2} strength={800}>
