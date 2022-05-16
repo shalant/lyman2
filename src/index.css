@@ -35,6 +35,10 @@ code {
   letter-spacing: 10px;
 }
 
+.img-txt {
+  text-align: center;
+}
+
 h2 {
   letter-spacing: 6px;
   text-transform: uppercase;
